@@ -22,7 +22,7 @@ I am _passionate about_:
 Dungeons and Dragons
 - Thing 2
 Magic the Gathering
-- Thing 3 as shown in this website <devilmayquake.com>
+- Thing 3 as shown in this website <https://store.steampowered.com/app/1229490/ULTRAKILL/>
 
 ***
 
